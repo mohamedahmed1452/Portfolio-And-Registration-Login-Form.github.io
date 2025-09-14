@@ -24,10 +24,7 @@ css/
 images/
 └── profile.jpg
 
-r
-Copy code
 
 ## 🌍 Live Demo
 Check out the deployed portfolio here:  
 👉 [Portfolio Demo](https://cute-licorice-613ecf.netlify.app/)  
-*(replace `username` with your GitHub username and `My-Portfolio` with your repo name)*
